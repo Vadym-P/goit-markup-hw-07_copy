@@ -1,0 +1,211 @@
+
+
+/* ======== HEADER ======== */
+.part-logo {logo__accent-text}
+
+.navigation-list {menu}
+
+.navigation-item {menu__item}
+
+.navigation-link {menu__link}
+
+.list-contacts {contacts}
+
+.list-contacts-item {contacts__item}
+
+.channel-link {contacts__link}
+
+.contacts-icon-mail {contacts__icon_mail}
+
+.contacts-icon-phone {contacts__icon_phone}
+/* ======== END HEADER ======== */
+
+/* ========= ADVANTAGES ========= */
+
+.advantages-icon-list {list-icons}
+
+.advantages-icon-item {list-icons__item}
+
+.advantages-icon-img {list-icons__figure}
+
+.advantages-list {list-desc}
+
+.advantages-list-item {list-desc__item}
+
+.advantages-list-title {list-desc__title}
+
+.advantages-list-description {list-desc__title_modifier}
+
+/* ========= END ADVANTAGES ========= */
+
+/* ========= WHAT WE DO ==========*/
+.our-work {
+}
+.second-title {
+}
+.work-list {
+}
+.work-list-item {work-list__item}
+
+.work-list-img {work-list__img}
+
+.work-list-img-title {work-list__title}
+
+/* ========= END WHAT WE DO ==========*/
+
+/* ========= OUR TEAM ==========*/
+.team {
+}
+.team-list {
+}
+.team-list-item {team-list__item}
+
+.team-list-img {team-list__img}
+
+.description-card {
+}
+.third-title {
+}
+.team-list-description {team-list__item_desc}
+
+.social-list {
+}
+.social-list-item {social-list__item}
+
+.social-list-link {social-list__link}
+
+.social-list-icon {social-list__icon}
+
+/* ========= END OUR TEAM ==========*/
+
+/* ========= REGULAR CLIENTS ==========*/
+
+.regular-clients {
+}
+.regular-clients-list {clients}
+
+.regular-clients-item {clients__item}
+
+.regular-clients-link {clients__link}
+
+.regular-clients-icon {clients__icon}
+
+/* ========= END REGULAR CLIENTS ==========*/
+
+/* ========= FOOTER CONTACT INFO ==========*/
+.contact-information {contacts-info}
+
+.contact-info-container {contacts__container}
+
+.contact-address-container {contact-details}
+
+.logo-white {logo_theme-dark}
+
+.address {
+}
+.contact-list {
+}
+.contact-list-item {contact-list__item}
+
+.contact-link-address {contact-list__link-address}
+
+.contact-link-item {contact-list__link-item}
+
+.social-links-footer {social-links_theme-dark}
+
+.social-title {
+}
+.social-links-footer-list {social-links}
+
+.social-links-footer-item {social-links__item}
+
+.social-links-footer-link {social-links__link}
+
+.social-links-footer-icon {social-links__icon}
+
+.email-form {
+}
+.email-form-title {email-form__title}
+
+.subscribe-form {subscribe}
+
+.contact-form-email {subscribe__form}
+
+.email-form-btn {subscribe__btn}
+
+.email-form-btn-icon {subscribe__btn-icon}
+
+/* ========= END FOOTER CONTACT INFO ==========*/
+
+/* ========= MODAL FORM & BUTTON ==========*/
+.backdrop {
+}
+.is-hidden {
+}
+.modal {
+}
+.modal-close-btn {modal__close-btn}
+
+.modal-close-btn-icon {modal-close__btn-icon}
+
+.action-desc {
+}
+.modal-form {
+}
+.modal-form-field {modal-form__field}
+
+.modal-form-input-wrapper {modal-form__input-wrapper}
+
+.modal-form-input {modal-form__input}
+
+.modal-form-input-icon {modal-form__input-icon}
+
+.modal-form-message {modal-form__message}
+
+.modal-form-term {modal-form__term}
+
+.modal-form-check-desc {modal-form__check-desc}
+
+.modal-form-btn {modal-form__btn}
+
+/* ========= END MODAL FORM & BUTTON ==========*/
+
+/* ========= FILTERS BUTTON ==========*/
+
+.filter-works {filter-menu}
+
+.container {
+}
+.visually-hidden {
+}
+.filter-works-list {filter}
+
+.list {
+}
+.filter-works-item {filter__item}
+
+.filter-works-btn {filter__btn}
+
+/* ========= OUR WORKS ==========*/
+
+.works-list {portfolio}
+
+.works-list-item {portfolio__item}
+
+.works-list-item-link {portfolio__link}
+
+.link {
+}
+.work-list-content-wrapper {portfolio__content-wrapper}
+
+.works-list-img {portfolio__img}
+
+.overlay {
+}
+.description-container {
+}
+.works-img-name {portfolio__title}
+
+.works-img-description {portfolio__description}
+
+/* ========= END OUR WORKS ==========*/
