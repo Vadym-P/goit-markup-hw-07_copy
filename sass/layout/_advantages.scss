@@ -10,13 +10,13 @@
     height: 120px;
     background: #f5f4fa;
     border-radius: 4px;
+    margin-bottom: 30px;
   }
 }
 
 .list-icons {
   display: flex;
   align-items: center;
-  margin-bottom: 30px;
   margin-left: -30px;
   margin-top: -30px;
 
@@ -29,21 +29,18 @@
   &__figure {
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 70px;
     height: 70px;
   }
-}
 
-.list-desc {
-  display: flex;
-  align-items: center;
-  margin-left: -30px;
-  margin-top: -30px;
-
-  &__item {
-    flex-basis: calc(100% / 4 - 30px);
-    margin-left: 30px;
-    margin-top: 30px;
+  &__desc {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: 270px;
+    background: var(--white-color);
+    border-radius: 4px;
   }
 
   &__title {
@@ -53,14 +50,14 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 10px;
+  }
 
-    &_modifier {
-      font-weight: 400;
-      font-size: 14px;
-      line-height: 1.71;
-      letter-spacing: 0.03em;
+  &__modifier {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
 
-      color: var(--content-description);
-    }
+    color: var(--content-description);
   }
 }

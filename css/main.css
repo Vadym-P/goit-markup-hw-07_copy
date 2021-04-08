@@ -542,12 +542,12 @@ img {
   height: 120px;
   background: #f5f4fa;
   border-radius: 4px;
+  margin-bottom: 30px;
 }
 
 .list-icons {
   display: flex;
   align-items: center;
-  margin-bottom: 30px;
   margin-left: -30px;
   margin-top: -30px;
 }
@@ -561,24 +561,21 @@ img {
 .list-icons__figure {
   display: flex;
   align-items: center;
+  justify-content: center;
   width: 70px;
   height: 70px;
 }
 
-.list-desc {
-  display: flex;
+.list-icons__desc {
+  display: block;
   align-items: center;
-  margin-left: -30px;
-  margin-top: -30px;
+  justify-content: center;
+  width: 270px;
+  background: var(--white-color);
+  border-radius: 4px;
 }
 
-.list-desc__item {
-  flex-basis: calc(100% / 4 - 30px);
-  margin-left: 30px;
-  margin-top: 30px;
-}
-
-.list-desc__title {
+.list-icons__title {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -587,7 +584,7 @@ img {
   margin-bottom: 10px;
 }
 
-.list-desc__title_modifier {
+.list-icons__modifier {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;

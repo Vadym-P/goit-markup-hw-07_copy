@@ -1,2 +1,2 @@
-# goit-markup-hw-07_copy
-Copy of hw#7
+# goit-markup-hw-07
+Домашняя работа #7. Препроцессор SASS. Методология BEM
